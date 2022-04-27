@@ -6,6 +6,11 @@
 
 ![Robson Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=robsonluan95&show_icons=true&theme=tokyonight)
 
+## Linguagens de programação mais usadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonluan95&layout=compact)](https://github.com/robsonluan95/github-readme-stats)
+
+
+
 ## Tecnologias
 <div style="display:inline_block"><br/>
   <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
