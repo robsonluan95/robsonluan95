@@ -1,6 +1,7 @@
 ### Olá! Eu sou Robson Luan 🙋🏼‍♂️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/robsonluan95/)
+[![Instagram](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+55(87)9196-8049)
 
 ![Robson Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=robsonluan95&show_icons=true&theme=tokyonight)
 
