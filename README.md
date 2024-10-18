@@ -1,6 +1,6 @@
 # Hi, nice to meet you <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
 
-<img align="right" width="40%" src="https://media1.giphy.com/media/kAuA24AYr9rXXTcSPc/giphy.gif?cid=ecf05e47f0de6c22fc99c80fdfce2a8f4a7fb571f2076597&rid=giphy.gif" alt="Cyber" />
+<img align="right" width="40%" src="https://forum.affinity.serif.com/uploads/monthly_2020_09/binary.gif.affe285faeb3a84a3e4ec63cc27ac4de.giff" alt="Cyber" />
 
 ### Welcome to my page!
 <p>
