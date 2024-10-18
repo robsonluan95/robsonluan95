@@ -85,7 +85,7 @@
 <code><img height="32" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Slack_colored_svg-512.png" alt="Slack" title="Slack"/></code>
 <code><img height="32" src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-10-512.png" alt="Teams" title="Teams"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/skype-2752073-2284890.png" alt="Skype" title="Skype"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/discord-2821895-2351951.png" alt="Discord" title="Discord"/></code>
+<code><img height="32" src="https://cdn0.iconscout.com/icon/free/png-512/discord-2821895-2351951.png" alt="Discord" title="Discord"/></code>
 
 **Operational System**
 
