@@ -13,10 +13,9 @@
 
 ### Talking about Personal Stuffs
 
-- 👩🏻‍💻 I’m currently working on exciting projects :wink:;
-- 🌱 I’m currently improving my Node.js skills;
-- 💬 Ask me about anything, I am happy to help;
-- 🏆 I love working out;
+👩🏻‍💻 I'm always learning something new;
+🌱 I'm currently improving my development with codes;
+🏆 Addicted to working out;
 
 <br/>
 
